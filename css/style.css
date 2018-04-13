@@ -1,0 +1,153 @@
+body{
+	margin: 0;
+	font-family:'Arial'; 
+	font-size: 18px;
+}
+
+header {
+	padding-top: 10px;
+	padding-bottom: 0px ;
+	color: #fff;
+	}
+
+.social-block a{
+	display: inline-block;
+	margin-right: 0px;
+	margin-top: 10px;
+	font-size: 15px;
+	text-decoration:none;
+}
+ a {
+    color: #000000; /* Цвет обычной ссылки */
+    padding: 10px; /* Поля вокруг текста */
+   }
+  a:hover {
+    text-decoration: none; /* Убираем подчеркивание */
+    color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+    background: #303f9f; /* Цвет фона */
+   }
+
+
+ .portfolio{
+	padding-top: 40px;
+}
+
+.header-title{
+	font-size: 30px;
+	font-weight: 400;
+margin-top: 0px;
+
+}
+.social {margin-left: 100px; 
+
+}
+.header-pretitle{
+font-size: 12px;
+margin-top: 10px;
+}
+.header-button{
+	
+
+border-radius: 3px;
+background-color: #4caf50;
+color: #ffffff;
+font-size: 12px;
+padding: 10px 30px;
+ border: 0;
+}
+.advertising{
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: 50px;
+	background-color: #303f9f;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.frame{
+		width: 270px;	height: 370px; /* Размеры */
+    background: #fff; /* Цвет фона */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 5px; /* Радиус скругления */
+
+}
+.frame1{
+margin-top: 20px; /* отсуп картинки внутри рамки */
+}
+
+.adv2 {
+	margin-left: 20px;
+	font-size: 18px;
+	font-weight: 10;
+}
+.order
+{
+	 text-decoration: none;
+	 	margin-left: 10px;
+	 	font-size: 14px;
+}
+.frame2{
+		width: 270px;	height: 370px; /* Размеры */
+    background: #fff; /* Цвет фона */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 5px; /* Радиус скругления */
+
+}
+.frame3{
+		width: 270px;	height: 370px; /* Размеры */
+    background:  #303f9f; /* Цвет фона */
+    border-radius: 5px; /* Радиус скругления */
+    border: 2px dashed #fff;
+}
+
+.order1{
+	 
+	 	color: #fff;
+}
+.adv3{
+	color: #fff;
+
+}
+.frame4
+{
+	margin-top: 50px;
+}
+.frame5{
+		width: 270px;	height: 370px; /* Размеры */
+    background:  #303f9f; /* Цвет фона */
+    border-radius: 5px; /* Радиус скругления */
+    border: 2px dashed ;
+}
+.frame6{
+margin-top: 50px;
+}
+.adv4 {
+
+}
+.goods
+{
+		padding-left: 200px;
+	margin-top: 50px;
+	padding-right: 100px;
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+.goods1{
+
+	font-size: 14px;
+
+}
+
+
+
+footer
+{
+		background-color: #303f9f;
+		color: #fff;
+		font-size: 14px;
+
+}
+
+.footer1{
+	font-size: 20px;
+	text-align: right;
+}
